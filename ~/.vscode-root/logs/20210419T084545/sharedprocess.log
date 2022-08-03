@@ -1,0 +1,10 @@
+[2021-04-19 08:45:50.797] [sharedprocess] [error] [uncaught exception in sharedProcess]: The "path" argument must be of type string. Received type undefined: Error: The "path" argument must be of type string. Received type undefined
+    at b (file:///snap/code/62/usr/share/code/resources/app/out/vs/code/electron-browser/sharedProcess/sharedProcessMain.js:14:14150)
+    at basename (file:///snap/code/62/usr/share/code/resources/app/out/vs/code/electron-browser/sharedProcess/sharedProcessMain.js:14:22386)
+    at r.groupImportantTipsByExe (file:///snap/code/62/usr/share/code/resources/app/out/vs/code/electron-browser/sharedProcess/sharedProcessMain.js:47:5088)
+    at r.collectTips (file:///snap/code/62/usr/share/code/resources/app/out/vs/code/electron-browser/sharedProcess/sharedProcessMain.js:47:4567)
+    at async file:///snap/code/62/usr/share/code/resources/app/out/vs/code/electron-browser/sharedProcess/sharedProcessMain.js:47:3764
+[2021-04-19 08:46:27.715] [sharedprocess] [info] Starting to clean up unused language packs.
+[2021-04-20 21:25:47.117] [sharedprocess] [warning] No ptyHost heartbeat after 6 seconds
+[2021-04-23 09:39:28.043] [sharedprocess] [warning] No ptyHost heartbeat after 6 seconds
+[2021-04-25 13:24:58.058] [sharedprocess] [warning] No ptyHost heartbeat after 6 seconds
